@@ -1,0 +1,15 @@
+# a121_catch_a_turtle.py
+#-----import statements-----
+import turtle as spot
+spot.fillcolor("red")
+
+#-----game configuration----
+
+
+#-----initialize turtle-----
+
+
+#-----game functions--------
+
+
+#-----events----------------
